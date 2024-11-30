@@ -4,7 +4,7 @@ Problema resolvido na disciplina de Linguagem de Programação I da UFMA, com o 
 
 ## DESCRIÇÃO
 
-O programa utiliza uma abordagem de heurística gulosa para determinar a rota com a menor distância total, visitando cada cidade exatamente uma vez antes de retornar à cidade de origem. Essa abordagem faz escolhas imediatas com base na menor distância disponível, sem considerar possíveis rotas futuras mais curtas entre outras cidades.
+O programa utiliza uma abordagem de heurística gulosa para determinar a rota com a menor distância total, visitando cada cidade exatamente uma vez antes de retornar à cidade de origem. Essa abordagem faz escolhas imediatas com base na menor distância disponível, sem considerar possíveis rotas futuras mais curtas entre outras cidades. Esse algoritmo é a forma mais simples de resolver esse problema.
 
 ## FUNCIONALIDADES
 
